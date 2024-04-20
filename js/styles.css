@@ -1,0 +1,36 @@
+#p{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#top {
+    text-decoration: underline;
+}
+
+body{
+    background-color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    border: 5px solid black;
+    margin: 80px; 
+    padding: 100px;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 30%;
+}
+
+#bullet {
+    font-size: 20px;
+    font-style: italic;
+}
+
+#color{
+    color: #222222;
+}
